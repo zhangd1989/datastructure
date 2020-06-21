@@ -1,0 +1,14 @@
+##ignore this file##
+/target/
+.idea
+.classpath
+.project
+.settings     
+ ##filter databfile、sln file##
+*.mdb  
+*.ldb  
+*.sln   
+*.iml
+##class file##
+*.com  
+*.class  
