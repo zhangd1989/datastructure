@@ -24,4 +24,14 @@ public class helloWord {
         }
         return a-b;
     }
+
+    public static int multi(int a, int b){
+
+        return 0;
+    }
+
+    public static int division(int a, int b){
+
+        return 0;
+    }
 }
