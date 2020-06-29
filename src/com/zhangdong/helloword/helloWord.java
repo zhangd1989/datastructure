@@ -7,6 +7,7 @@ public class helloWord {
         System.out.println("this is branch dev 0.0.1");
         System.out.println(sum(1,2));
         System.out.println(subtraction(4,2));
+        System.out.println(multi(4,2));
     }
 
     public static int sum(int a, int b){
@@ -26,7 +27,8 @@ public class helloWord {
     }
 
     public static int multi(int a, int b){
-
+        if(a==1)
+            return b;
         return 0;
     }
 
