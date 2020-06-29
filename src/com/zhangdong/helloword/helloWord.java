@@ -26,7 +26,8 @@ public class helloWord {
     }
 
     public static int multi(int a, int b){
-
+        if(a==0)
+            return 0;
         return 0;
     }
 
