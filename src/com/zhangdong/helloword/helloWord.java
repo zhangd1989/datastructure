@@ -16,6 +16,9 @@ public class helloWord {
     }
 
     public static int subtraction(int a, int b){
+        if(a<b){
+            return 0;
+        }
         return a-b;
     }
 }
