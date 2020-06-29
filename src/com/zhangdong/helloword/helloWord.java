@@ -19,6 +19,9 @@ public class helloWord {
         if(a<b){
             return 0;
         }
+        if(a==b){
+            return 0;
+        }
         return a-b;
     }
 }
