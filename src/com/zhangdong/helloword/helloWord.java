@@ -19,5 +19,6 @@ public class helloWord {
         String str=input.next();
         System.out.println("hello, " + str);
 
+        System.out.println("others edit this file, need merge this file!");
     }
 }
